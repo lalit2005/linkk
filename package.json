@@ -13,7 +13,7 @@
   },
   "bin": "dist/index.js",
   "scripts": {
-    "build": "tsup src/index.ts --format cjs,esm --clean",
+    "build": "tsup src/index.ts --format cjs,esm --clean --minify",
     "dev": "yarn build --watch",
     "prepublish": "yarn build",
     "test": "echo \"Error: no test specified\" && exit 1"
