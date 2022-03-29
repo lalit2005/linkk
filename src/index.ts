@@ -44,5 +44,5 @@ cli
   });
 
 cli.help();
-cli.version("0.0.2");
+cli.version("0.0.4");
 cli.parse();
