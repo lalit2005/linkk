@@ -1,6 +1,6 @@
 {
   "name": "linkk",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A simple tool to shorten links from CLI.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
